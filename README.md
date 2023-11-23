@@ -1,5 +1,5 @@
-## Guess The Color - Game
+# Guess The Color - Game
 
-# [Link](https://gtc-game.netlify.app/)
+## [Link](https://gtc-game.netlify.app/)
 
-# [Backend Repo](https://github.com/RudraPatel2001/gtc-server)
+## [Backend Repo](https://github.com/RudraPatel2001/gtc-server)
