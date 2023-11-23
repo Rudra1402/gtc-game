@@ -1,0 +1,21 @@
+/* CustomSlider.css */
+.custom-slider-container {
+  position: relative;
+  width: 100%;
+  max-width: 600px; /* Adjust as needed */
+  margin: auto;
+}
+
+.slides-container {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+}
+
+.slide {
+  width: 100%;
+}
+
+.active {
+  opacity: 1;
+  scale: 1.75;
+}
